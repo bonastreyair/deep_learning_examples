@@ -1,9 +1,9 @@
 # deep_learning_examples
 Some examples on how to train deep learning models using Google Colabs
 
-- 0 - ROC Curve
+- 0 - PR Curve
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bonastreyair/deep_learning_examples/blob/master/0%20-%20ROC%20Curve.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bonastreyair/deep_learning_examples/blob/master/0%20-%20PR%20Curve.ipynb)
 
 - 1 - Regressor
 
